@@ -28,5 +28,11 @@
         "key": "6unGwZEqde",
         "expirydate": "28-12-2858",
         "Allowoffline": false
+    },
+    {
+        "device_id": "/start",
+        "key": "S07JWsNKuD",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
