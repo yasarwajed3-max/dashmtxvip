@@ -40,5 +40,11 @@
         "key": "nFKJOTjovG",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "mtx",
+        "key": "Lo9wmWPe48",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
