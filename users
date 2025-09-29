@@ -70,5 +70,11 @@
         "key": "ipV4AkvB2C",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4146858b5fa2394",
+        "key": "zS7veZKRPr",
+        "expirydate": "29-06-2031",
+        "Allowoffline": false
     }
 ]
