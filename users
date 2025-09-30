@@ -124,5 +124,11 @@
         "key": "bLHXCWF1vs",
         "expirydate": "30-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5c37c15d2cf650a",
+        "key": "nrUamARWLh",
+        "expirydate": "30-12-2033",
+        "Allowoffline": false
     }
 ]
