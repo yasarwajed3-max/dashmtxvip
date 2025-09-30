@@ -136,5 +136,11 @@
         "key": "T4u21plvES",
         "expirydate": "30-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3f697b62245ca89",
+        "key": "NFquEhPC0x",
+        "expirydate": "30-12-2033",
+        "Allowoffline": false
     }
 ]
