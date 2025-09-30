@@ -142,5 +142,11 @@
         "key": "NFquEhPC0x",
         "expirydate": "30-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cace01e7bd50e6a0",
+        "key": "nfaBuz1USY",
+        "expirydate": "30-10-2025",
+        "Allowoffline": false
     }
 ]
