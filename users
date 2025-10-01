@@ -148,5 +148,11 @@
         "key": "nfaBuz1USY",
         "expirydate": "30-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "77f21fef52d1cd34",
+        "key": "vDzk2QpAVO",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
