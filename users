@@ -178,5 +178,11 @@
         "key": "wfx14q2a5g",
         "expirydate": "02-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f2782810ee731fb",
+        "key": "cSNWTYAg1J",
+        "expirydate": "02-07-2031",
+        "Allowoffline": false
     }
 ]
