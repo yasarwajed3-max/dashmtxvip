@@ -172,5 +172,11 @@
         "key": "U7oMP3Fv82",
         "expirydate": "02-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e1ed898007db486a",
+        "key": "wfx14q2a5g",
+        "expirydate": "02-11-2025",
+        "Allowoffline": false
     }
 ]
