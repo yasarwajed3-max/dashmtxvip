@@ -412,5 +412,11 @@
         "key": "Lvd95ghObI",
         "expirydate": "13-08-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d2fb4b064a9a868f",
+        "key": "ukcByG8NDS",
+        "expirydate": "13-12-2025",
+        "Allowoffline": false
     }
 ]
