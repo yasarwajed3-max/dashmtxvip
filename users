@@ -550,5 +550,11 @@
         "key": "KS6gmaEsFL",
         "expirydate": "18-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1773ca98be878e05",
+        "key": "Hhsl58KDF4",
+        "expirydate": "18-12-2025",
+        "Allowoffline": false
     }
 ]
