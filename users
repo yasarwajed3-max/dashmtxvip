@@ -616,5 +616,11 @@
         "key": "aAIVPFUTdb",
         "expirydate": "23-08-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec18780100957ceb",
+        "key": "MjtgS6D2v5",
+        "expirydate": "23-12-2025",
+        "Allowoffline": false
     }
 ]
