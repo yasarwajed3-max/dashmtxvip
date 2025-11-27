@@ -670,5 +670,11 @@
         "key": "NYdmjiGO7n",
         "expirydate": "26-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5674b362f10f5fa",
+        "key": "MnuTDPvyXm",
+        "expirydate": "27-12-2025",
+        "Allowoffline": false
     }
 ]
