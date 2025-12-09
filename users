@@ -868,5 +868,11 @@
         "key": "mpkgEWuYAd",
         "expirydate": "08-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da87c578eddd17f0",
+        "key": "dZXt6QgGVS",
+        "expirydate": "09-01-2026",
+        "Allowoffline": false
     }
 ]
