@@ -24,7 +24,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "/start",
+        "device_id": "\/start",
         "key": "S07JWsNKuD",
         "expirydate": "28-10-2025",
         "Allowoffline": false
@@ -744,7 +744,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "58f8448dc8c31b0e",
+        "device_id": "5a6c9ad6b9fb8ae7",
         "key": "wnlkGNBTZo",
         "expirydate": "29-12-2025",
         "Allowoffline": false
