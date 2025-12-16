@@ -994,5 +994,11 @@
         "key": "IOExUh15tv",
         "expirydate": "16-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e8720484e707694e",
+        "key": "I4vfs3rxRM",
+        "expirydate": "16-01-2026",
+        "Allowoffline": false
     }
 ]
