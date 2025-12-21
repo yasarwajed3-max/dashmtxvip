@@ -1126,5 +1126,11 @@
         "key": "fUE1z8aqRB",
         "expirydate": "21-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7b46182a7f65bbea",
+        "key": "aQ8nwUmgcC",
+        "expirydate": "22-01-2026",
+        "Allowoffline": false
     }
 ]
