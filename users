@@ -1270,5 +1270,11 @@
         "key": "NEVtFXUmBi",
         "expirydate": "27-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2fcea782ad559913",
+        "key": "bNhZ306ryH",
+        "expirydate": "27-01-2026",
+        "Allowoffline": false
     }
 ]
