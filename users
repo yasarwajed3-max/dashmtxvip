@@ -1282,5 +1282,11 @@
         "key": "BTUZczi75G",
         "expirydate": "27-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e630907ec37cf24a",
+        "key": "38u0QN1LO9",
+        "expirydate": "27-01-2026",
+        "Allowoffline": false
     }
 ]
