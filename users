@@ -1306,5 +1306,11 @@
         "key": "2TW9FC5Hbo",
         "expirydate": "28-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "732468f37465d22e",
+        "key": "EVAqB8oJ6w",
+        "expirydate": "28-01-2026",
+        "Allowoffline": false
     }
 ]
