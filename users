@@ -1300,5 +1300,11 @@
         "key": "hEiT95e4u7",
         "expirydate": "27-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "69e265f510dc546b",
+        "key": "2TW9FC5Hbo",
+        "expirydate": "28-01-2026",
+        "Allowoffline": false
     }
 ]
